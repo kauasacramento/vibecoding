@@ -1,0 +1,9 @@
+node_modules/
+*.exe
+*.dll
+*.go
+go.mod
+go.sum
+*.exe
+*.dll
+*.lib
